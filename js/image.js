@@ -12,7 +12,7 @@ function addPicture(src) {
   addPicture("Pictures/20210203_214526.jpg");
   addPicture("Pictures/20210516_170301.jpg");
   addPicture("Pictures/20210516_170305.jpg");
-  addPicture("Pictures/20220101_153553");
+  addPicture("Pictures/20220101_153553.jpg");
   addPicture("Pictures/Alone.jpg");
   addPicture("Pictures/FB_IMG_1664900855785.jpg");
   addPicture("Pictures/FB_IMG_1664900880231.jpg");
