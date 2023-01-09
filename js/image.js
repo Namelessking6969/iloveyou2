@@ -25,8 +25,8 @@ function addPicture(src) {
   addPicture("Pictures/KissingForehead.jpg");
   addPicture("Pictures/mywifeandkids.jpg");
   addPicture("Pictures/OliHandUp.jpg");
-  addPicture("Picutres/Selfiewithbasket.jpg");
-  addPicture("Picutres/WeddingFamily.jpg");
-  addPicture("Picutres/WithAuntNEssa.jpg");
-  addPicture("Picutres/WithJim.jpg");
+  addPicture("Pictures/Selfiewithbasket.jpg");
+  addPicture("Pictures/WeddingFamily.jpg");
+  addPicture("Pictures/WithAuntNessa.jpg");
+  addPicture("Pictures/WithJim.jpg");
 
