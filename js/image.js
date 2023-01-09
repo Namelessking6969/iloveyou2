@@ -4,6 +4,6 @@
     document.body.appendChild(img);
   }
   
-  addPicture("image1.jpg");
+  addPicture("20200919_133638.jpg");
   addPicture("image2.jpg");
   addPicture("image3.jpg");
