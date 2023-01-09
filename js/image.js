@@ -2,6 +2,8 @@ function addPicture(src) {
     var img = document.createElement("img");
     img.src = src;
     document.body.appendChild(img);
+    img.style.width = '156px';
+    img.style.height = 'auto';
   }
   
   addPicture("Pictures/20200919_133638.jpg");
