@@ -29,4 +29,5 @@ function addPicture(src) {
   addPicture("Pictures/WeddingFamily.jpg");
   addPicture("Pictures/WithAuntNessa.jpg");
   addPicture("Pictures/WithJim.jpg");
+  
 
