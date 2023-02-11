@@ -1,2 +1,1 @@
-Created a whole new site instead of implimenting html, i used javascript
-
+Please don't bash me, i am learning and figured i could make something for my wife while learning
