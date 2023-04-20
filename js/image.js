@@ -29,3 +29,4 @@ addPicture("Pictures/Selfiewithbasket.jpg");
 addPicture("Pictures/WeddingFamily.jpg");
 addPicture("Pictures/WithAuntNessa.jpg");
 addPicture("Pictures/WithJim.jpg");
+addPicture("Pictures/")
