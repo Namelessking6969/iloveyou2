@@ -3,7 +3,7 @@ function addPicture(src) {
   img.src = src;
   document.body.appendChild(img);
   img.style.width = "240px";
-  img.style.height = "auto";
+  img.style.height = "250px";
 }
 
 addPicture("Pictures/20200919_133638.jpg");
