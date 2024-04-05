@@ -1,26 +1,17 @@
 body {
     background-color: #e75ce7;
+    font-family: verdana;
+    font-size: 15px;
 }
 
 h1 {
     color: #e75ce7;
-
-}
-
-p {
-    font-family: verdana;
-    font-size: 15px;
+    text-align: center;
 }
 
 p {
     text-align: start;
 }
-
-h1 {
-    text-align: center;
-
-}
-
 
 .images {
     display: flex;
@@ -38,10 +29,6 @@ h1 {
 .photo img {
     width: 100%;
     height: 100%;
-}
-
-body {
-    background-color: #e75ce7;
 }
 
 h2 {
