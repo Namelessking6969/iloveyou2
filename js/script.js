@@ -23,7 +23,6 @@ const photos = [
   "WeddingFamily.jpg",
   "WithAuntNessa.jpg",
   "WithJim.jpg",
-  "1000000089.jpg"
 ];
 
 // Function to create each photo element
