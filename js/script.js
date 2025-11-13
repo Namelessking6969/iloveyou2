@@ -25,16 +25,16 @@ const photos = [
   "WithJim.jpg",
 ];
 
-// Function to create each photo element
+
 function addPicture(src) {
   const gallery = document.getElementById("photo-gallery");
   const photoDiv = document.createElement("div");
   photoDiv.className = "photo";
 
   const img = document.createElement("img");
-  img.src = `Pictures/${src}`;   // reference your folder here
+  img.src = `Pictures/${src}`;  
   img.alt = "Precious memory";
-  img.loading = "lazy";          // lazy-load for performance
+  img.loading = "lazy";          
 
   photoDiv.appendChild(img);
   gallery.appendChild(photoDiv);
